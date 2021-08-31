@@ -1,7 +1,7 @@
 
 
 #$SOURCEPATH = "C:\Users\S0388232\Desktop\robocopy\source"
-$SOURCEPATH = "\\e3d\E3D_ACC\MIT\MITERM\material"
+SOURCEPATH = "\\e3d\E3D_ACC\MIT\MITERM\material"
 ##$DESTPATH = "C:\Users\S0388232\Desktop\robocopy\destination"
 $DESTPATH ="D:\Data\INT119\AVEVA\ImportStagingAreas\KERM-00461\IF5D\Import_Test"
 
